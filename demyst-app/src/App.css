@@ -1,0 +1,25 @@
+.App {
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: center;
+  align-items: center;
+}
+
+
+.auth-form-container{
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* background: lightblue; */
+}
+
+label {
+  text-align: left;
+  padding: 0.25rem 0;
+}
+
+input {
+  margin: 0.5rem 0;
+  padding: 1rem;
+  border: none;
+  border-radius: 10px;
+}
